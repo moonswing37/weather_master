@@ -1,5 +1,6 @@
 .impact{
     font-family:Impact;
+    display: inline
  }
 .funny{
     border-color: slategray;
@@ -16,5 +17,10 @@
 .smallest{
     height:50px ;
     width: 50px;
-    
-    
+}
+#cloud{
+    background-color: grey
+}
+#sun{
+    background-color: rgb(245, 245, 146)
+}
